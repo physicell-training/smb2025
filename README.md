@@ -2,10 +2,11 @@
 These are slides and materials used during the July 13, 2025 mini-tutorial (part of the [OpenVT Workshop](https://www.openvt.org/pages/events/workshops/2025openvt-smb-workshop.html) at the [Society for Mathematical Biology (SMB) 2025 Annual Meeting](https://2025.smb.org/) in Edmonton, Canada. 
 
 ## Mini PhysiCell Tutorial 
-This is a miniature, 2-hour tutorial series on building your first tumor-immune model with PhysiCell Studio, without any need to install a C++ compiler or write any code. 
+This is a miniature, 2-hour tutorial series on building your first tumor-immune model with PhysiCell Studio, without any need to install a C++ compiler or write any code. (If you can't view in-browser, 
 
-1. [Part 1: Background and Hands-on cancer model](https://github.com/physicell-training/smb2025/blob/main/slides/PhysiCell_smb2025-Part1%20(v2).pdf)
-2. [Part 2: Hands-on model extensions to chemotherapy, inflammation, and immune response](https://github.com/physicell-training/smb2025/blob/main/slides/PhysiCell_smb2025-Part2%20(v2).pdf)
+1. [Part 1: Background and Hands-on cancer model](https://github.com/physicell-training/smb2025/raw/refs/heads/main/slides/PhysiCell_smb2025-Part1%20(v2).pdf).
+2. [Part 2: Hands-on model extensions to chemotherapy, inflammation, and immune response](https://github.com/physicell-training/smb2025/raw/refs/heads/main/slides/PhysiCell_smb2025-Part2%20(v2).pdf) 
+3. [Cell paper supplementary materials (key details on reference behavior models)](https://github.com/physicell-training/smb2025/raw/refs/heads/main/reference_materials/Methods_S1.pdf)
 
 ## Papers
 ### Key Papers
