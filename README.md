@@ -10,7 +10,7 @@ This is a miniature, 2-hour tutorial series on building your first tumor-immune 
 ## Papers
 ### Key Papers
 1. [Ghaffarizadeh et al. (2018), PhysiCell Method Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005991)
-1. [Johnson et al. (2023). PhysiCell Grammar and Cancer Examples including Spatial Transcriptomics](https://www.biorxiv.org/content/10.1101/2023.09.17.557982v3)
+1. [Johnson et al. (2023). PhysiCell Grammar and Cancer Examples including Spatial Transcriptomics (The Cell paper)](https://doi.org/10.1016/j.cell.2025.06.048)
 2. [Ponce-de-Leon et al. (2023) .PhysiBoSS 2.0](https://doi.org/10.1038/s41540-023-00314-4)
 1. [Heiland et al. (2024). PhysiCell Studio](https://doi.org/10.46471/gigabyte.128)
 2. [Metzcar et al. (2019). Agent-Based Modeling Review for Cancer](https://doi.org/10.1200/CCI.18.00069) 
